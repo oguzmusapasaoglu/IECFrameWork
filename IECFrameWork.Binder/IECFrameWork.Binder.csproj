@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\IECFW.Caching\IECFW.Caching.csproj" />
+    <ProjectReference Include="..\IECFW.Common\IECFW.Common.csproj" />
+    <ProjectReference Include="..\IECFW.Configrations\IECFW.Configrations.csproj" />
+    <ProjectReference Include="..\IECFW.DbManager\IECFW.DbManager.csproj" />
+    <ProjectReference Include="..\IECFW.Dependency\IECFW.Dependency.csproj" />
+    <ProjectReference Include="..\IECFW.LogManager\IECFW.LogManager.csproj" />
+    <ProjectReference Include="..\IECFW.NoSqlManager\IECFW.NoSqlManager.csproj" />
+  </ItemGroup>
+
+</Project>
