@@ -10,7 +10,6 @@
     <ProjectReference Include="..\IECFW.Configrations\IECFW.Configrations.csproj" />
     <ProjectReference Include="..\IECFW.DbManager\IECFW.DbManager.csproj" />
     <ProjectReference Include="..\IECFW.Dependency\IECFW.Dependency.csproj" />
-    <ProjectReference Include="..\IECFW.LogManager\IECFW.LogManager.csproj" />
     <ProjectReference Include="..\IECFW.NoSqlManager\IECFW.NoSqlManager.csproj" />
   </ItemGroup>
 
